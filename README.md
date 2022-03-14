@@ -86,7 +86,7 @@ python -m tensorboard.main --logdir=logs  # Open the browser to where it tells y
 
 ## Datasets and Pre-Trained Models
 
-Download our generated train and test datasets and pre-trained models [here](https://drive.google.com/drive/folders/).
+Download our generated train and test datasets and pre-trained models [here](https://drive.google.com/drive/folders/1WZR6Npqiy-1DZNaWiN3yOI1hQnpovAww?usp=sharing).
 
 
 The MDP formulation for each task uses transitions with the following structure:
