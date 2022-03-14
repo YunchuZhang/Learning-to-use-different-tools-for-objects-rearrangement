@@ -1,5 +1,5 @@
 # Learning to use different tools for objects rearrangement
-[Project Website](https://transporternets.github.io/)&nbsp;&nbsp;•&nbsp;&nbsp;[PDF](https://arxiv.org/pdf/2010.14406.pdf)&nbsp;&nbsp;•&nbsp;&nbsp;Under review for IROS 2022
+[Project Website](https://transporternets.github.io/)&nbsp;&nbsp;•&nbsp;&nbsp;[PDF](https://yunchuzhang.github.io/images/Tool_select_IROS.pdf)&nbsp;&nbsp;•&nbsp;&nbsp;Under review for IROS 2022
 
 ## Abstract
 
